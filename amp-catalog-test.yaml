@@ -1,0 +1,26 @@
+name: Bigdata-biz
+
+entries:
+  - title: Bigdata-biz-LLM-test
+    label: llm-chatbot
+    short_description: |
+        short description
+    long_description: |
+        Source: https://github.com/cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data.git
+        long description
+        
+
+    image_path: >-
+      https://raw.githubusercontent.com/bigdata-biz/Bigdatabiz-AMPs-catalog/images/test.png
+    tags:
+      - Chatbot
+      - LLM
+      - Huggingface
+      - Generative AI
+      - RAG
+      - Vector DB
+      - Milvus
+      - Transformers
+      - NLP
+    git_url: 'https://github.com/bigdata-biz/Bigdatabiz-AMPs-LLM'
+    is_prototype: true
