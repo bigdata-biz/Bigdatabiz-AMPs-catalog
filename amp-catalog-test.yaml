@@ -47,3 +47,18 @@ entries:
       - Korean
     git_url: 'https://github.com/bigdata-biz/Bigdatabiz-AMPs-LLM-KR'
     is_prototype: true
+
+  - title: Bigdata-biz-Simple-MLflow-test
+    label: simple-mlflow-test
+    short_description: |
+        short description
+    long_description: |
+        Source: https://github.com/cloudera/CML_AMP_MLFlow_Tracking.git
+        long description
+  
+    image_path: >-
+      https://raw.githubusercontent.com/bigdata-biz/Bigdatabiz-AMPs-catalog/master/images/test3.png
+    tags:
+      - mlflow
+    git_url: 'https://github.com/bigdata-biz/CML_AMP_MLFlow_Tracking'
+    is_prototype: true
