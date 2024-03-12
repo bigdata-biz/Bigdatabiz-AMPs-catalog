@@ -62,3 +62,27 @@ entries:
       - mlflow
     git_url: 'https://github.com/bigdata-biz/CML_AMP_MLFlow_Tracking'
     is_prototype: true
+
+  - title: Bigdata-biz-KR-LLM-test
+    label: llm-chatbot(KR)
+    short_description: |
+        short description
+    long_description: |
+        Source: https://github.com/cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data.git
+        long description
+  
+    image_path: >-
+      https://raw.githubusercontent.com/bigdata-biz/Bigdatabiz-AMPs-catalog/master/images/test4.png
+    tags:
+      - Chatbot
+      - LLM
+      - Huggingface
+      - Generative AI
+      - RAG
+      - Vector DB
+      - Milvus
+      - Transformers
+      - NLP
+      - Korean
+    git_url: 'https://github.com/bigdata-biz/Bigdata-biz-KR-LLM'
+    is_prototype: true
