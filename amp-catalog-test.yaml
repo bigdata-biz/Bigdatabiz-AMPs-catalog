@@ -25,7 +25,7 @@ entries:
     is_prototype: true
 
   - title: Bigdata-biz-LLM-KR-test
-    label: llm-chatbot(KR)
+    label: llm-chatbot(KR-trs)
     short_description: |
         short description
     long_description: |
